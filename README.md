@@ -1,7 +1,7 @@
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>ENTER YOUR NAME: ABDULRAWOOF </H3>
+<H3>ENTER YOUR REGISTER NO: 212224230003</H3>
 <H3>EX. NO.1</H3>
-<H3>DATE</H3>
+<H3>DATE: 31-10-2026</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
@@ -25,26 +25,3 @@ Data Preprocessing is the process of making data suitable for use while training
 **Need of Data Preprocessing :**
 
 For achieving better results from the applied model in Machine Learning projects the format of the data has to be in a proper manner. Some specified Machine Learning model needs information in a specified format, for example, Random Forest algorithm does not support null values, therefore to execute random forest algorithm null values have to be managed from the original raw data set.
-Another aspect is that the data set should be formatted in such a way that more than one Machine Learning and Deep Learning algorithm are executed in one data set, and best out of them is chosen.
-
-
-## ALGORITHM:
-STEP 1:Importing the libraries<BR>
-STEP 2:Importing the dataset<BR>
-STEP 3:Taking care of missing data<BR>
-STEP 4:Encoding categorical data<BR>
-STEP 5:Normalizing the data<BR>
-STEP 6:Splitting the data into test and train<BR>
-
-##  PROGRAM:
-TYPE YOUR CODE HERE
-
-
-## OUTPUT:
-SHOW YOUR OUTPUT HERE
-
-
-## RESULT:
-Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
-
-
